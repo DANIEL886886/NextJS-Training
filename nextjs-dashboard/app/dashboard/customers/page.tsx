@@ -23,26 +23,6 @@ export default function Page() {
 							Panel 2
 						</p>
 					</div>
-					<div className="bg-white p-6 shadow-lg rounded-lg h-96 w-1/2">
-						<p className="text-center text-lg font-medium">
-							Panel 3
-						</p>
-					</div>
-					<div className="bg-white p-6 shadow-lg rounded-lg h-96 w-1/2">
-						<p className="text-center text-lg font-medium">
-							Panel 4
-						</p>
-					</div>
-					<div className="bg-white p-6 shadow-lg rounded-lg h-96 w-1/2">
-						<p className="text-center text-lg font-medium">
-							Panel 5
-						</p>
-					</div>
-					<div className="bg-white p-6 shadow-lg rounded-lg h-96 w-1/2">
-						<p className="text-center text-lg font-medium">
-							Panel 6
-						</p>
-					</div>
 				</div>
 			</div>
 		</div>
