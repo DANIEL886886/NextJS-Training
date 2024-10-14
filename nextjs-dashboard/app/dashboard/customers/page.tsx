@@ -1,7 +1,6 @@
 export default function Page() {
 	return (
 		<div className="min-h-screen flex justify-center items-center">
-			<p>Much love to Mihaela 🤍</p>
 			{/* Outer container with white background, rounded corners, and shadow */}
 			<div
 				className="container mx-auto p-6 bg-white rounded-md"
